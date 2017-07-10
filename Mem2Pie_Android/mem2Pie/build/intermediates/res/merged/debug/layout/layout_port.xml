@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/back"
+        android:id="@+id/imageView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+    <TextView
+        android:text="Camera"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:textColor="#FFFFFF"
+
+        android:layout_alignStart="@+id/imageButton2"
+        android:layout_marginStart="11dp"
+        android:layout_below="@+id/imageButton2" />
+
+    <TextView
+        android:text="Gallery"
+        android:textColor="#FFFFFF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_below="@+id/imageButton4"
+        android:layout_alignEnd="@+id/textView" />
+
+    <ImageButton
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="@drawable/camera"
+        android:scaleType="fitXY"
+        android:id="@+id/imageButton2"
+        android:adjustViewBounds="true"
+        android:elevation="0dp"
+        android:onClick="button"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/imageButton4"
+        android:layout_marginTop="110dp" />
+
+    <ImageButton
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="@drawable/gallery"
+        android:id="@+id/imageButton4"
+        android:onClick="button1"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="Setting"
+        android:layout_width="wrap_content"
+        android:textColor="#FFFFFF"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView6"
+        android:layout_below="@+id/imageButton5"
+        android:layout_alignStart="@+id/textView2" />
+
+    <ImageButton
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="@drawable/setting"
+
+        android:id="@+id/imageButton5"
+        android:onClick="button_setting"
+        android:layout_marginTop="61dp"
+        android:layout_below="@+id/textView2"
+        android:layout_alignStart="@+id/imageButton4" />
+
+
+</RelativeLayout>

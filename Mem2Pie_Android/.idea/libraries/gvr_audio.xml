@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gvr_audio">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mem2Pie/libs/gvr_audio.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

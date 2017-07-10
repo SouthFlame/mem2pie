@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Mem2Pie</string>
+  <string name="scanning">SCANNING</string>
+  <string name="camera_connect">CONNECT TO CAMERA</string>
+  <string name="connect">CONNECT</string>
+  <string name="disconnect">DISCONNECT</string>
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\back_button.xml",
+        "source": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\layout\\back_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_layer_with_portrait_support.xml",
+        "source": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_layer.xml",
+        "source": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_layer.xml"
+    },
+    {
+        "merged": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\transition_view.xml",
+        "source": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\layout\\transition_view.xml"
+    }
+]

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\libs\gvr_audio.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f23fafd64a2733554059bce0d81cca8239031f16">
+        <dex dex="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\pre-dexed\debug\gvr_audio_de2d79c145dab1ccc3e814aafb39f08bb48147d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\exploded-aar\Mem2Pie1\gvr_android_common\unspecified\jars\libs\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ebd287344e67fdc612fa30d1e7d2b67356d65c5e">
+        <dex dex="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\pre-dexed\debug\gvr_android_common-unspecified-jars_49b3ffd88fd4eda8c809062de5a8e58b91747963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\exploded-aar\Mem2Pie1\gvr_android_common\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d4f92b18e1e16c4188ed619449c31b8857073f3">
+        <dex dex="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\pre-dexed\debug\Mem2Pie1-gvr_android_common-unspecified_3498ae5709b44e968177d3d1e0ffe90246a28118.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_66ed2dfca7f3e159d4fa4df4e79fb71cc0796acd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_d9c77a1c3cf549d401d9100cc26dd061ef886119.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\libs\unityplug.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="58615500f8e256c1137388b6b7810eb55b0914b3">
+        <dex dex="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\pre-dexed\debug\unityplug_6a332906d285b7339717f799f6996fa235072faa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_7d22bd5b4e8ef30e5fe95081f596535fc65488f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\exploded-aar\Mem2Pie1\unitygvractivity\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="83a1dc36835cf17e2f9fbdbfa4445dbfe4c6f6c6">
+        <dex dex="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\pre-dexed\debug\Mem2Pie1-unitygvractivity-unspecified_8bb605265695eade18720898b6096b49b7bfb7bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="93fa9a51dbd4f87bb42ef88062eb2deb4ff62c23">
+        <dex dex="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\pre-dexed\debug\unity-classes_f5a375afb12d6fcb102ef81e88c1a98d9c703dd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\exploded-aar\Mem2Pie1\FriendsLink-1.5.10\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3722a1008b377e9ce234963f628ec02ebcd23a25">
+        <dex dex="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\pre-dexed\debug\Mem2Pie1-FriendsLink-1.5.10-unspecified_b12436a04d8e55de9761119ff0835fb42c6c908a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kdw86\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_6fd400000f5409abc073d00b6e1d5ad88bb79982.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\exploded-aar\Mem2Pie1\osclibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="655b391b43e9e3a48ed3cb71c20e9035c4f81770">
+        <dex dex="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\pre-dexed\debug\Mem2Pie1-osclibrary-unspecified_1ae5def98cc4bd8c4e04025b8e6e575eb4bedcd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_f4c756b289b3a0ffe117531c11da73c90a1a9bbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\exploded-aar\Mem2Pie1\unitygvractivity\unspecified\jars\libs\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fdbc62173065ecc264f6dafe5c1685025158143f">
+        <dex dex="C:\Users\kdw86\Desktop\Mem2Pie1\mem2Pie\build\intermediates\pre-dexed\debug\unitygvractivity-unspecified-jars_ec6f6464c8a4c3625609c62d58c03c9bbd7fc532.jar" />
+    </item>
+
+</items>

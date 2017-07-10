@@ -1,0 +1,330 @@
+[
+    {
+        "outputFile": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-vi\\values-vi.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 98,
+                    "endOffset": 199
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 98,
+                        "endOffset": 199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 204,
+                    "endColumn": 75,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 75,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endColumn": 151,
+                    "endOffset": 427
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 151,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 432,
+                    "endColumn": 137,
+                    "endOffset": 565
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 137,
+                        "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 570,
+                    "endColumn": 84,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 570,
+                        "endColumn": 84,
+                        "endOffset": 650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endColumn": 85,
+                    "endOffset": 736
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 655,
+                        "endColumn": 85,
+                        "endOffset": 736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 741,
+                    "endColumn": 240,
+                    "endOffset": 977
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 741,
+                        "endColumn": 240,
+                        "endOffset": 977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 982,
+                    "endColumn": 244,
+                    "endOffset": 1222
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 982,
+                        "endColumn": 244,
+                        "endOffset": 1222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1227,
+                    "endColumn": 105,
+                    "endOffset": 1328
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1227,
+                        "endColumn": 105,
+                        "endOffset": 1328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1333,
+                    "endColumn": 109,
+                    "endOffset": 1438
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1333,
+                        "endColumn": 109,
+                        "endOffset": 1438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1443,
+                    "endColumn": 114,
+                    "endOffset": 1553
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1443,
+                        "endColumn": 114,
+                        "endOffset": 1553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1558,
+                    "endColumn": 139,
+                    "endOffset": 1693
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1558,
+                        "endColumn": 139,
+                        "endOffset": 1693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1698,
+                    "endColumn": 169,
+                    "endOffset": 1863
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1698,
+                        "endColumn": 169,
+                        "endOffset": 1863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1868,
+                    "endColumn": 101,
+                    "endOffset": 1965
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1868,
+                        "endColumn": 101,
+                        "endOffset": 1965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1970,
+                    "endColumn": 80,
+                    "endOffset": 2046
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1970,
+                        "endColumn": 80,
+                        "endOffset": 2046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2051,
+                    "endColumn": 89,
+                    "endOffset": 2136
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2051,
+                        "endColumn": 89,
+                        "endOffset": 2136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2141,
+                    "endColumn": 98,
+                    "endOffset": 2235
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-vi\\values-vi.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2141,
+                        "endColumn": 98,
+                        "endOffset": 2235
+                    }
+                }
+            }
+        ]
+    }
+]

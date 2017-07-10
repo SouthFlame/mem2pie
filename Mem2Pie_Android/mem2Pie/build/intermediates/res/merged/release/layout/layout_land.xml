@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/back"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/imageView"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:text="Camera"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:textColor="#FFFFFF"
+
+        android:layout_below="@+id/imageButton2"
+        android:layout_alignStart="@+id/imageButton2"
+        android:layout_marginStart="11dp" />
+
+    <TextView
+        android:text="Setting"
+        android:layout_width="wrap_content"
+        android:textColor="#FFFFFF"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView6"
+        android:layout_below="@+id/imageButton5"
+        android:layout_alignStart="@+id/imageButton5"
+        android:layout_marginStart="13dp" />
+
+    <ImageButton
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="@drawable/setting"
+
+        android:id="@+id/imageButton5"
+        android:onClick="button_setting (UnityPlayerActivity)"
+        android:layout_alignTop="@+id/imageButton2"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="105dp" />
+
+    <ImageButton
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="@drawable/camera"
+        android:scaleType="fitXY"
+        android:id="@+id/imageButton2"
+        android:adjustViewBounds="true"
+        android:elevation="0dp"
+        android:onClick="button"
+        android:layout_alignTop="@+id/imageButton4"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="97dp" />
+
+    <ImageButton
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="@drawable/gallery"
+        android:id="@+id/imageButton4"
+        android:onClick="button1"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="Gallery"
+        android:layout_width="wrap_content"
+        android:textColor="#FFFFFF"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageButton4"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/textView3"
+        android:onClick="button_setting (UnityPlayerActivity)" />
+
+</RelativeLayout>

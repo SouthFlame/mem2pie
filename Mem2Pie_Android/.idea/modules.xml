@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FriendsLink-1.5.10/FriendsLink-1.5.10.iml" filepath="$PROJECT_DIR$/FriendsLink-1.5.10/FriendsLink-1.5.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mem2Pie1.iml" filepath="$PROJECT_DIR$/Mem2Pie1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gvr_android_common/gvr_android_common.iml" filepath="$PROJECT_DIR$/gvr_android_common/gvr_android_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mem2Pie/mem2Pie.iml" filepath="$PROJECT_DIR$/mem2Pie/mem2Pie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osclibrary/osclibrary.iml" filepath="$PROJECT_DIR$/osclibrary/osclibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unitygvractivity/unitygvractivity.iml" filepath="$PROJECT_DIR$/unitygvractivity/unitygvractivity.iml" />
+    </modules>
+  </component>
+</project>

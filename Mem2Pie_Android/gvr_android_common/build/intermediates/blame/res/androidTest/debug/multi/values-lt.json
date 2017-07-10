@@ -1,0 +1,330 @@
+[
+    {
+        "outputFile": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-lt\\values-lt.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 95,
+                    "endOffset": 196
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-lt\\values-lt.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 95,
+                        "endOffset": 196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 201,
+                    "endColumn": 80,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-lt\\values-lt.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 201,
+                        "endColumn": 80,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endColumn": 153,
+                    "endOffset": 431
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-lt\\values-lt.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 153,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 436,
+                    "endColumn": 141,
+                    "endOffset": 573
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-lt\\values-lt.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 436,
+                        "endColumn": 141,
+                        "endOffset": 573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 578,
+                    "endColumn": 85,
+                    "endOffset": 659
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-lt\\values-lt.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 578,
+                        "endColumn": 85,
+                        "endOffset": 659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 664,
+                    "endColumn": 86,
+                    "endOffset": 746
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-lt\\values-lt.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 664,
+                        "endColumn": 86,
+                        "endOffset": 746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 751,
+                    "endColumn": 223,
+                    "endOffset": 970
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-lt\\values-lt.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 751,
+                        "endColumn": 223,
+                        "endOffset": 970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 975,
+                    "endColumn": 222,
+                    "endOffset": 1193
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-lt\\values-lt.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 975,
+                        "endColumn": 222,
+                        "endOffset": 1193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1198,
+                    "endColumn": 105,
+                    "endOffset": 1299
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-lt\\values-lt.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1198,
+                        "endColumn": 105,
+                        "endOffset": 1299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1304,
+                    "endColumn": 110,
+                    "endOffset": 1410
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-lt\\values-lt.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1304,
+                        "endColumn": 110,
+                        "endOffset": 1410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1415,
+                    "endColumn": 108,
+                    "endOffset": 1519
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-lt\\values-lt.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1415,
+                        "endColumn": 108,
+                        "endOffset": 1519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1524,
+                    "endColumn": 129,
+                    "endOffset": 1649
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-lt\\values-lt.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1524,
+                        "endColumn": 129,
+                        "endOffset": 1649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1654,
+                    "endColumn": 159,
+                    "endOffset": 1809
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-lt\\values-lt.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1654,
+                        "endColumn": 159,
+                        "endOffset": 1809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1814,
+                    "endColumn": 104,
+                    "endOffset": 1914
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-lt\\values-lt.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1814,
+                        "endColumn": 104,
+                        "endOffset": 1914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1919,
+                    "endColumn": 78,
+                    "endOffset": 1993
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-lt\\values-lt.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1919,
+                        "endColumn": 78,
+                        "endOffset": 1993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1998,
+                    "endColumn": 88,
+                    "endOffset": 2082
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-lt\\values-lt.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1998,
+                        "endColumn": 88,
+                        "endOffset": 2082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2087,
+                    "endColumn": 99,
+                    "endOffset": 2182
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\Mem2Pie1\\gvr_android_common\\build\\intermediates\\bundles\\debug\\res\\values-lt\\values-lt.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2087,
+                        "endColumn": 99,
+                        "endOffset": 2182
+                    }
+                }
+            }
+        ]
+    }
+]
